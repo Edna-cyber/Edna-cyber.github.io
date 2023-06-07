@@ -6,12 +6,6 @@
   background-color: #ffffff;
 }
 
-#aihc_headline {
-  max-width: 600px;
-  margin: 0px;
-  padding: 0px;
-}
-
 .programHeadline {
   background-color: #a90531;
   padding: 10px 15px;
@@ -34,8 +28,8 @@
 }
 
 .feature-item img {
-  width: 300px;
-  height: 300px; 
+  width: 100%;
+  max-width: 200px;
   margin: 0px;
   border-radius: 50%;
   border: 5px solid white;
@@ -47,7 +41,7 @@
 }
 
 img {
-  padding: 10px 0px;
+  padding: 0px;
   max-width: 100%;
   text-align: center;
   margin: 0px auto;
