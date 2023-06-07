@@ -32,7 +32,7 @@
   max-width: 200px;
   margin: 0px;
   border-radius: 50%;
-  border: 5px solid black;
+  border: 5px solid white;
   padding: 0px;
 }
 
@@ -244,7 +244,11 @@ section {
 section.features .device-container,
 section.features .feature-item {
   max-width: 300px;
-  margin: 0 auto;
+  width: 300px;
+  border-radius: 25px;
+  padding: 10px;
+  border: 5px black;
+  margin: 20px;
 }
 
 section.features .feature-item {
