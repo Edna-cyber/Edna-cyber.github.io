@@ -217,7 +217,7 @@ p, ul > li {
   }
 }
 #header {
-  background-image: url('blue-banner-background.png'); 
+  background-image: url('../img/blue-banner-background.png'); 
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
