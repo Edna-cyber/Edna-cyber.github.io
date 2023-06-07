@@ -217,7 +217,7 @@ p, ul > li {
   }
 }
 #header {
-  background-image: url('./img/blue-banner-background.png'); 
+  background-image: url('https://scx1.b-cdn.net/csz/news/800/2017/theoreticala.jpg'); 
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -266,33 +266,6 @@ section.features .feature-item i {
   }
 }
 
-footer {
-  background-color: #222222;
-  padding: 50px 0;
-  color: rgba(255, 255, 255, 0.3);
-}
-
-footer img {
-  height: 100px;
-}
-
-footer p {
-  font-size: 12px;
-  margin: 0;
-}
-footer ul {
-  margin-bottom: 0;
-}
-footer ul li a {
-  font-size: 12px;
-  color: rgba(255, 255, 255, 0.3);
-}
-footer ul li a:hover,
-footer ul li a:focus,
-footer ul li a:active,
-footer ul li a.active {
-  text-decoration: none;
-}
 .bg-primary {
   background: #a90531;
   color: white;
