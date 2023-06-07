@@ -244,11 +244,7 @@ section {
 section.features .device-container,
 section.features .feature-item {
   max-width: 300px;
-  width: 300px;
-  border-radius: 25px;
-  padding: 10px;
-  border: 5px black;
-  margin: 20px;
+  margin: 0px;
 }
 
 section.features .feature-item {
@@ -325,11 +321,5 @@ img::-moz-selection {
   background: transparent;
 }
 
-.project{
-  width: 300px;
-  border-radius: 25px;
-  padding: 10px;
-  border: 5px black;
-  margin: 20px;
-}
+
 
