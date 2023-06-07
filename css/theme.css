@@ -322,8 +322,9 @@ img::-moz-selection {
 }
 
 .project{
+  border-radius: 25px;
   padding: 10px;
   border: 5px black;
-  margin: 0;
+  margin: 20px;
 }
 
