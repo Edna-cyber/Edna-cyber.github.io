@@ -217,7 +217,7 @@ p, ul > li {
   }
 }
 #header {
-  background-image: url('@/img/blue-banner-background.png'); 
+  background-image: url('blue-banner-background.png'); 
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -254,10 +254,6 @@ section.features .feature-item {
 
 section.features .feature-item i {
   font-size: 80px;
-  background: -webkit-linear-gradient(to left, #c50c3e, #a90531);
-  background: linear-gradient(to left, #c50c3e, #a90531);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
 }
 @media (min-width: 992px) {
   section.features .device-container,
