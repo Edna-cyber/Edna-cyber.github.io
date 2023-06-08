@@ -6,17 +6,6 @@
   background-color: #ffffff;
 }
 
-.programHeadline {
-  background-color: #a90531;
-  padding: 10px 15px;
-  border: 2px solid #a90531;
-  border-radius: 5px;
-  text-align: center;
-  max-width: 500px;
-  margin: 10px auto;
-  width: 100%;
-}
-
 #page-title {
   font-size: 3.2em;
   font-weight: 600;
@@ -87,25 +76,6 @@ body {
 }
 body {
   font-family: 'Muli', 'Helvetica', 'Arial', 'sans-serif';
-}
-a {
-  -webkit-transition: all 0.35s;
-  -moz-transition: all 0.35s;
-  transition: all 0.35s;
-  color: #a90531;
-}
-a:hover,
-a:focus {
-  color: #fcbd20;
-}
-hr {
-  max-width: 100px;
-  margin: 25px auto 0;
-  border-width: 1px;
-  border-color: rgba(34, 34, 34, 0.1);
-}
-hr.light {
-  border-color: white;
 }
 
 h1,
