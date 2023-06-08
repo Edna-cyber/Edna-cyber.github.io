@@ -6,6 +6,16 @@
   background-color: #ffffff;
 }
 
+.row{
+  display: flex;
+}
+
+.row > div{
+  flex: 1;
+  border: 5px black;
+  border-radius: 200px;
+}
+
 .programHeadline {
   background-color: #a90531;
   padding: 10px 15px;
