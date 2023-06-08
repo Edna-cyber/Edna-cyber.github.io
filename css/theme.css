@@ -6,10 +6,6 @@
   background-color: #ffffff;
 }
 
-.row{
-  display: flex;
-}
-
 .row > div{
   flex: 1;
   border: 5px black;
