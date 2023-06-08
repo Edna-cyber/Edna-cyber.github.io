@@ -111,7 +111,7 @@ p, ul > li {
   font-family: 'Muli', 'Helvetica', 'Arial', 'sans-serif';
   font-weight: 400;
   letter-spacing: 1px;
-  color: #a90531;
+  color: #012169;
 }
 .navbar-default .navbar-header .navbar-brand:hover,
 .navbar-default .navbar-header .navbar-brand:focus {
@@ -134,11 +134,11 @@ p, ul > li {
 }
 .navbar-default .nav > li > a:hover,
 .navbar-default .nav > li > a:focus:hover {
-  color: #a90531;
+  color: #012169;
 }
 .navbar-default .nav > li.active > a,
 .navbar-default .nav > li.active > a:focus {
-  color: #a90531 !important;
+  color: #012169 !important;
   background-color: transparent;
 }
 .navbar-default .nav > li.active > a:hover,
@@ -174,7 +174,7 @@ p, ul > li {
   }
   .navbar-default.affix .navbar-header .navbar-brand:hover,
   .navbar-default.affix .navbar-header .navbar-brand:focus {
-    color: #a90531;
+    color: #012169;
   }
   .navbar-default.affix .nav > li > a,
   .navbar-default.affix .nav > li > a:focus {
@@ -182,7 +182,7 @@ p, ul > li {
   }
   .navbar-default.affix .nav > li > a:hover,
   .navbar-default.affix .nav > li > a:focus:hover {
-    color: #a90531;
+    color: #012169;
   }
 }
 #header {
@@ -232,11 +232,11 @@ section.features .feature-item i {
 }
 
 .bg-primary {
-  background: #a90531;
+  background: #012169;
   color: white;
 }
 .text-primary {
-  color: #a90531;
+  color: #012169;
 }
 
 .text-secondary {
@@ -257,8 +257,8 @@ section.features .feature-item i {
 .btn-outline:active,
 .btn-outline.active {
   color: white;
-  background-color: #a90531;
-  border-color: #a90531;
+  background-color: #012169;
+  border-color: #012169;
 }
 .btn {
   font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
