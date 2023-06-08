@@ -97,10 +97,6 @@ p, ul > li {
   line-height: 2.4rem;
 }
 
-tag{
-  line-height: 3rem;
-}
-
 .navbar-default {
   background-color: white;
   border-color: rgba(34, 34, 34, 0.05);
