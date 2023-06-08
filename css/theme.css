@@ -29,6 +29,11 @@
   height: 12.5em;
 }
 
+tag{
+  font-family: 'Muli', 'Helvetica', 'Arial', 'sans-serif';
+  font-size:20px;
+}
+
 img {
   padding: 0px;
   max-width: 100%;
